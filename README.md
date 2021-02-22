@@ -1,6 +1,6 @@
 ### Gábor Szárnyas
 
-I'm interested in graph processing techniques with an emphasis on both raw performance and usability aspects (portability, expressive power, conciseness).
+I'm a researcher interested in graph processing techniques with an emphasis on both raw performance and usability aspects (portability, expressive power, conciseness).
 Most of my contributions are under the following organizations:
 
 * [ftsrg](https://github.com/ftsrg) (PhD, 2014–2019)
