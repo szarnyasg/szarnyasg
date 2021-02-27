@@ -1,5 +1,7 @@
 ### Gábor Szárnyas
 
+[Website](https://szarnyasg.github.io/) | [Twitter](https://twitter.com/szarnyasg) | [LinkedIn](https://www.linkedin.com/in/szarnyasg/) | [Stack Overflow](https://stackoverflow.com/users/3580502/gabor-szarnyas)
+
 I'm a researcher interested in graph processing techniques with an emphasis on both raw performance and usability aspects (portability, expressive power, conciseness).
 Most of my contributions are under the following organizations:
 
@@ -8,6 +10,10 @@ Most of my contributions are under the following organizations:
 * [LDBC](https://github.com/ldbc/) (benchmark task force lead, steering committee member, 2017–)
 * [GraphBLAS](https://github.com/GraphBLAS/) (LAGraph contributor and tutorial maintainer, 2019–)
 
-I curate a number of repositories collecting resources for a given technology space: [(open)Cypher](https://github.com/szarnyasg/awesome-cypher), [SQL/PGQ](https://github.com/szarnyasg/sql-pgq-pointers), [GraphBLAS](https://github.com/GraphBLAS/GraphBLAS-Pointers/blob/master/README.md), [worst-case optimal joins](https://github.com/szarnyasg/wcojs)
+I curate a number of repositories with pointers centerated around a certain technology or algorithm family:
 
-[Website](https://szarnyasg.github.io/) | [Twitter](https://twitter.com/szarnyasg) | [LinkedIn](https://www.linkedin.com/in/szarnyasg/) | [Stack Overflow](https://stackoverflow.com/users/3580502/gabor-szarnyas)
+* [(open)Cypher](https://github.com/szarnyasg/awesome-cypher)
+* [SQL/PGQ](https://github.com/szarnyasg/sql-pgq-pointers)
+* [GraphBLAS](https://github.com/GraphBLAS/GraphBLAS-Pointers)
+* [worst-case optimal joins](https://github.com/szarnyasg/wcojs)
+
