@@ -15,5 +15,4 @@ I curate a number of repositories with pointers centerated around a certain tech
 * [(open)Cypher](https://github.com/szarnyasg/awesome-cypher)
 * [SQL/PGQ](https://github.com/szarnyasg/sql-pgq-pointers)
 * [GraphBLAS](https://github.com/GraphBLAS/GraphBLAS-Pointers)
-* [worst-case optimal joins](https://github.com/szarnyasg/wcojs)
-
+* [graph processing using relational operators](https://github.com/szarnyasg/relational-graph-processing)
