@@ -12,7 +12,7 @@ Most of my contributions are under the following organizations:
 
 I curate a number of repositories with pointers centerated around a certain technology or algorithm family:
 
-* [(open)Cypher](https://github.com/szarnyasg/awesome-cypher)
-* [SQL/PGQ](https://github.com/szarnyasg/sql-pgq-pointers)
-* [GraphBLAS](https://github.com/GraphBLAS/GraphBLAS-Pointers)
-* [graph processing using relational operators](https://github.com/szarnyasg/relational-graph-processing)
+* [The (open)Cypher query language](https://github.com/szarnyasg/awesome-cypher)
+* [The SQL/PGQ query language](https://github.com/szarnyasg/sql-pgq-pointers)
+* [The GraphBLAS API and its ecosystem](https://github.com/GraphBLAS/GraphBLAS-Pointers)
+* [Research on graph processing using relational operators](https://github.com/szarnyasg/relational-graph-processing)
