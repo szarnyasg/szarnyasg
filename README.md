@@ -10,9 +10,9 @@ Most of my contributions are under the following organizations:
 * [LDBC](https://github.com/ldbc/) (benchmark task force lead, steering committee member, 2017–)
 * [GraphBLAS](https://github.com/GraphBLAS/) (LAGraph contributor and tutorial maintainer, 2019–)
 
-I curate a number of repositories with pointers centerated around a certain technology or algorithm family:
+I curate a number of repositories with pointers centered around a certain technology or algorithm family:
 
-* [The (open)Cypher query language](https://github.com/szarnyasg/awesome-cypher)
-* [The SQL/PGQ query language](https://github.com/szarnyasg/sql-pgq-pointers)
 * [The GraphBLAS API and its ecosystem](https://github.com/GraphBLAS/GraphBLAS-Pointers)
 * [Research on graph processing using relational operators](https://github.com/szarnyasg/relational-graph-processing)
+* [The (open)Cypher query language](https://github.com/szarnyasg/awesome-cypher)
+* [The SQL/PGQ query language](https://github.com/szarnyasg/sql-pgq-pointers)
