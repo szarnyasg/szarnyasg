@@ -2,7 +2,7 @@
 
 [Website](https://szarnyasg.github.io/) | [Twitter](https://twitter.com/szarnyasg) | [LinkedIn](https://www.linkedin.com/in/szarnyasg/) | [Stack Overflow](https://stackoverflow.com/users/3580502/gabor-szarnyas)
 
-I'm a researcher interested in data management and grpah processing techniques.
+I'm a researcher interested in data management and graph processing techniques.
 I deem both raw performance and usability aspects (portability, expressive power, conciseness) equally important.
 Most of my contributions are in these GitHub organizations and roles:
 
