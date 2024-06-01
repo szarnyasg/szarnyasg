@@ -6,6 +6,6 @@ Timeline:
 
 * [DuckDB Labs](https://duckdblabs.com/): developer relations advocate and technical writer (2023–)
 * [CWI Database Architectures group](https://github.com/cwida): post-doctoral researcher (2020–2023)
-* [Linked Data Benchmark Council](https://github.com/ldbc/): benchmark contributor and task force lead (2017–), steering committee member (2020–2023)
+* [Linked Data Benchmark Council](https://github.com/ldbc/): benchmark contributor and task force lead (2017–), steering committee member (2020–2023), board advisor (2024–)
 * [GraphBLAS](https://github.com/GraphBLAS/): LAGraph contributor and tutorial maintainer (2019–2023)
 * [ftsrg at Budapest University of Technology and Economics](https://github.com/ftsrg): PhD in software engineering (2014–2019)
