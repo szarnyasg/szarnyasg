@@ -4,7 +4,7 @@
 
 Current activities:
 
-* [DuckDB Labs](https://duckdblabs.com/): developer relations advocate and technical writer (2023–)
+* [DuckDB Labs](https://duckdblabs.com/): developer advocate and technical writer (2023–)
 * [Linked Data Benchmark Council](https://github.com/ldbc/): benchmark contributor, task force lead, and board member (2019–)
 
 Past activities:
