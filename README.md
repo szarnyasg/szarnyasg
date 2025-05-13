@@ -1,6 +1,6 @@
 ### Gábor Szárnyas
 
-[Website](https://szarnyasg.github.io/) | [Bluesky](https://bsky.app/profile/szarnyasg.org) | [LinkedIn](https://www.linkedin.com/in/szarnyasg/) | [Stack Overflow](https://stackoverflow.com/users/3580502/gabor-szarnyas)
+[Website](https://szarnyasg.org/) | [Bluesky](https://bsky.app/profile/szarnyasg.org) | [LinkedIn](https://www.linkedin.com/in/szarnyasg/) | [Stack Overflow](https://stackoverflow.com/users/3580502/gabor-szarnyas)
 
 Current activities:
 
