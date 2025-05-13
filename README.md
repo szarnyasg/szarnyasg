@@ -9,6 +9,6 @@ Current activities:
 
 Past activities:
 
-* [CWI Database Architectures group](https://github.com/cwida): post-doctoral researcher (2020–2023)
+* [CWI Database Architectures group](https://github.com/cwida): post-doctoral researcher in database research (2020–2023)
 * [ftsrg at Budapest University of Technology and Economics](https://github.com/ftsrg): PhD in software engineering (2014–2019)
-* [GraphBLAS](https://github.com/GraphBLAS/): LAGraph contributor and tutorial maintainer (2019–2023)
+* [GraphBLAS](https://github.com/GraphBLAS/): maintainer and contributor to the LAGraph graph algorithm library (2019–2023)
