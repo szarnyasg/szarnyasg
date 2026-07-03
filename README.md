@@ -4,7 +4,7 @@
 
 Current activities:
 
-* [DuckDB Labs](https://duckdblabs.com/): developer advocate (2023–)
+* [DuckLabs (formerly: DuckDB Labs)](https://ducklabs.com/): developer advocate (2023–)
 * [Graph Data Council (formerly: Linked Data Benchmark Council)](https://ldbcouncil.org/): contributor & board member (2017–)
 
 Past activities:
